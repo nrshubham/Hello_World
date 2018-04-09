@@ -69,6 +69,11 @@
 		<artifactId>spring-boot-starter-test</artifactId>
 		<scope>test</scope>
 	</dependency>
+	<dependency>
+		<groupId>org.eclipse.license</groupId>
+		<artifactId>org.eclipse.license</artifactId>
+		<version>1.0.1.v20140414-1359</version>
+	</dependency>
   </dependencies>
   
 	<dependencyManagement>
